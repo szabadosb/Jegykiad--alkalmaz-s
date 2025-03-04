@@ -1,0 +1,2 @@
+# Jegykiadó alkalmazás
+ 
