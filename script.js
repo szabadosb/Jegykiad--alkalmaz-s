@@ -18,7 +18,7 @@ Tíznél több jegy vásárlása esetén jár 10% kedvezmény
 
 
 var darabszám = prompt('Add meg a darabszámot');
-var típus = prompt('Add meg a jegy tipúsát!     diák / felnőtt / nyugdíjas');
+var típus = prompt('Add meg a jegy típusát!     diák / felnőtt / nyugdíjas');
 
 
 var típusok = {
